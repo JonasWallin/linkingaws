@@ -1,0 +1,6 @@
+https://realpython.com/python-boto3-aws-s3/
+
+1. How to setup confing
+	- using ~/.boto
+
+	https://docs.aws.amazon.com/AmazonS3/latest/gsg/CreatingABucket.html
